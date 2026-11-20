@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Improving LLM guidance for CUDA-Q
-parent: Writing samples
+parent: Writing Samples
 nav_order: 1
 ---
 # Improving LLM guidance for CUDA-Q
