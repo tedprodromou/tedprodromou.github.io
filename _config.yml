@@ -8,8 +8,8 @@ search_enabled: true
 aux_links:
   "GitHub":
     - "https://github.com/tedprodromou"
-  # "LinkedIn":
-  #   - "https://www.linkedin.com/in/your-linkedin-handle"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/ted-prodromou/"
 aux_links_new_tab: true
 back_to_top: true
 footer_content: "Thanks for reading!"
