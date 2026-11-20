@@ -1,0 +1,9 @@
+title: Ted Prodromou
+description: Writing samples
+theme: minima
+github_username: tedprodromou
+# linkedin_username: your-linkedin-handle
+header_pages:
+  - index.md
+  - resume.md
+  - about.md
