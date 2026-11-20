@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Catalyst documentation for Serval
-parent: Writing Samples
+parent: Portfolio
 nav_order: 2
 ---
 # Catalyst documentation for Serval

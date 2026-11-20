@@ -1,12 +1,21 @@
 ---
 layout: default
-title: Writing Samples
-nav_order: 2
+title: Portfolio
+nav_order: 1
 has_children: true
 has_toc: false
 permalink: /
 ---
-# Writing Samples
+# Portfolio
+
+<img src="{{ '/assets/images/ted-balloon-flight.jpg' | relative_url }}" alt="Ted smiling under a hot air balloon burner in flight" style="float: right; width: 220px; max-width: 40%; margin: 0 0 1rem 1.5rem; border-radius: 8px;">
+
+I'm a technical documentation leader with more than 20 years of experience driving measurable impact at Google and Meta. I build scalable content systems and lead high-performing teams that improve developer productivity and customer success.
+
+[LinkedIn](https://www.linkedin.com/in/ted-prodromou/) · [GitHub](https://github.com/tedprodromou)
+
+## Writing Samples
+{: style="clear: both;" }
 
 Here's a list of my most recent writing samples. Let me know if you'd like to see anything else!
 
